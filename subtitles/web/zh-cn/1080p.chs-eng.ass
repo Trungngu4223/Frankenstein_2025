@@ -19,13 +19,12 @@ Dialogue: 0,0:00:32.25,0:00:37.75,Default,,0,0,0,,（极北之地 1857年）
 Dialogue: 0,0:00:54.70,0:00:55.70,Default,,0,0,0,,船长！\NCaptain!
 Dialogue: 0,0:01:01.83,0:01:02.83,Default,,0,0,0,,船长！\NCaptain!
 Dialogue: 0,0:01:04.29,0:01:05.50,Default,,0,0,0,,能聊聊吗？\NCan we talk?
-Dialogue: 0,0:01:09.37,0:01:10.50,Default,,0,0,0,,Hmm.
+Dialogue: 0,0:01:09.37,0:01:10.50,Default,,0,0,0,,嗯\NHmm.
 Dialogue: 0,0:01:13.08,0:01:14.58,Default,,0,0,0,,我们必须破冰前行\NWe must break through the ice.
 Dialogue: 0,0:01:15.20,0:01:17.04,Default,,0,0,0,,大家都很饿 也累坏了\NThe men are hungry and exhausted.
 Dialogue: 0,0:01:18.08,0:01:20.62,Default,,0,0,0,,要是继续这样下去 恐怕会付出代价\NWe cannot keep up this pace without consequence.
 Dialogue: 0,0:01:25.29,0:01:26.58,Default,,0,0,0,,大家听着！\NListen up, men!
-Dialogue: 0,0:01:27.87,0:01:32.70,Default,,0,0,0,,我们拖得越久 冰就冻得越牢固\NThe more we delay the labor,
-Dialogue: 0,0:01:30.33,0:01:32.70,Default,,0,0,0,,the firmer the grasp of the ice will become.
+Dialogue: 0,0:01:27.87,0:01:32.70,Default,,0,0,0,,我们拖得越久 冰就冻得越牢固\NThe more we delay the labor, the firmer the grasp of the ice will become.
 Dialogue: 0,0:01:33.45,0:01:34.75,Default,,0,0,0,,继续干活\NThe work continues.
 Dialogue: 0,0:01:35.29,0:01:36.70,Default,,0,0,0,,各组轮流作业\NRotate each group.
 Dialogue: 0,0:01:36.79,0:01:37.95,Default,,0,0,0,,先生 请听我说\NSir, with respect…
@@ -119,7 +118,7 @@ Dialogue: 0,0:10:10.54,0:10:12.58,Default,,0,0,0,,（第一部分 维克多的�
 Dialogue: 0,0:10:12.66,0:10:13.50,Default,,0,0,0,,维克多！\NVictor!
 Dialogue: 0,0:10:16.08,0:10:17.25,Default,,0,0,0,,维克多！\NVictor!
 Dialogue: 0,0:10:20.70,0:10:23.83,Default,,0,0,0,,快下来 你父亲来了\NCome down, your father is arriving.
-Dialogue: 0,0:10:24.79,0:10:27.75,Default,,0,0,0,,Maman? Maman?
+Dialogue: 0,0:10:24.79,0:10:27.75,Default,,0,0,0,,Maman? \NMaman?
 Dialogue: 0,0:10:28.95,0:10:30.37,Default,,0,0,0,,母亲 我在这里\NI'm here, Mother.
 Dialogue: 0,0:10:33.91,0:10:35.12,Default,,0,0,0,,这里\NI'm here.
 Dialogue: 0,0:10:38.12,0:10:41.41,Default,,0,0,0,,我父亲是男爵 也是个杰出的外科医生\NMy father was a baron and a preeminent surgeon.
@@ -142,13 +141,12 @@ Dialogue: 0,0:11:56.12,0:11:57.12,Default,,0,0,0,,很有营养\NIt's nutritious.
 Dialogue: 0,0:12:03.50,0:12:04.50,Default,,0,0,0,,守护天使\NGuardian angel.
 Dialogue: 0,0:12:05.20,0:12:06.50,Default,,0,0,0,,甜蜜的陪伴\NSweet companion.
 Dialogue: 0,0:12:07.16,0:12:09.41,Default,,0,0,0,,请守护我 不要离开我\NStand by my side and do not leave me.
-Dialogue: 0,0:12:10.12,0:12:13.16,Default,,0,0,0,,用你的披风庇护我 然后…\NUnder your mantle,
-Dialogue: 0,0:12:11.54,0:12:14.58,Default,,0,0,0,,shelter me, and…
+Dialogue: 0,0:12:10.12,0:12:13.16,Default,,0,0,0,,用你的披风庇护我 然后…\NUnder your mantle, shelter me, and…
 Dialogue: 0,0:12:15.58,0:12:18.70,Default,,0,0,0,,我隔着墙听到他们争论不休\NI would hear them through the wall, arguing incessantly,
 Dialogue: 0,0:12:18.79,0:12:22.62,Default,,0,0,0,,对着彼此大吼大叫 话题关于财富和庄园 还有我\Nyelling at each other about wealth, estate… and me.
 Dialogue: 0,0:12:23.79,0:12:26.33,Default,,0,0,0,,他们的争吵声让我万分恐惧\NTheir voices filled me with fear.
-Dialogue: 0,0:12:30.95,0:12:32.08,Default,,0,0,0,,Maman?
-Dialogue: 0,0:12:34.04,0:12:35.20,Default,,0,0,0,,Maman?
+Dialogue: 0,0:12:30.95,0:12:32.08,Default,,0,0,0,,Maman?\NMaman?
+Dialogue: 0,0:12:34.04,0:12:35.20,Default,,0,0,0,,Maman?\NMaman?
 Dialogue: 0,0:12:45.75,0:12:48.20,Default,,0,0,0,,那个男人鄙视我们两个\NThe man despised us both.
 Dialogue: 0,0:12:48.29,0:12:52.12,Default,,0,0,0,,讨厌我们乌黑的头发、深色的瞳孔\NOur raven black hair, our deep, dark eyes.
 Dialogue: 0,0:12:52.70,0:12:56.79,Default,,0,0,0,,就连我们喜好安静、不时紧张的性情\NEven our quiet, at times nervous disposition
@@ -189,14 +187,14 @@ Dialogue: 0,0:15:04.50,0:15:05.37,Default,,0,0,0,,一\NOne…
 Dialogue: 0,0:15:07.20,0:15:08.70,Default,,0,0,0,,不可能\NThat's impossible.
 Dialogue: 0,0:15:10.45,0:15:11.45,Default,,0,0,0,,我来洗牌\NI'll shuffle.
 Dialogue: 0,0:15:17.33,0:15:18.45,Default,,0,0,0,,母亲？\NMother?
-Dialogue: 0,0:15:19.62,0:15:21.00,Default,,0,0,0,,Maman?
+Dialogue: 0,0:15:19.62,0:15:21.00,Default,,0,0,0,,Maman?\Maman?
 Dialogue: 0,0:15:26.62,0:15:27.95,Default,,0,0,0,,父亲\NFather!
 Dialogue: 0,0:15:28.04,0:15:29.45,Default,,0,0,0,,父亲 母亲出事了\NFather. It's Mother.
-Dialogue: 0,0:15:36.00,0:15:37.70,Default,,0,0,0,,Maman.
+Dialogue: 0,0:15:36.00,0:15:37.70,Default,,0,0,0,,Maman.\Maman.
 Dialogue: 0,0:15:37.79,0:15:40.54,Default,,0,0,0,,准备好热水和干净的亚麻布 多拿一点 快\NI need hot water and clean linen. A lot of it.
 Dialogue: 0,0:15:40.62,0:15:41.45,Default,,0,0,0,,是 先生\N-Now. -Sir.
 Dialogue: 0,0:15:41.54,0:15:42.54,Default,,0,0,0,,-不 维克多 -妈妈？\N-No, Victor! -Mother?
-Dialogue: 0,0:15:44.12,0:15:45.50,Default,,0,0,0,,-Maman! -Victor!
+Dialogue: 0,0:15:44.12,0:15:45.50,Default,,0,0,0,,-Maman! -维克多!\N-Maman! -Victor!
 Dialogue: 0,0:15:49.33,0:15:51.87,Default,,0,0,0,,父亲！\NFather! Father!
 Dialogue: 0,0:15:51.95,0:15:53.41,Default,,0,0,0,,一定要救她 求你了！\N-Victor! -Save her, please!
 Dialogue: 0,0:16:35.91,0:16:41.12,Default,,0,0,0,,我的母亲 我曾将她视作我的一部分\NMy mother, whom I had come to consider a part of my very self,
@@ -261,7 +259,7 @@ Dialogue: 0,0:21:04.08,0:21:05.00,Default,,0,0,0,,生命\NLife.
 Dialogue: 0,0:21:06.62,0:21:10.50,Default,,0,0,0,,这就是生命 先生们\NThis… is life, gentlemen.
 Dialogue: 0,0:21:10.58,0:21:12.70,Default,,0,0,0,,（皇家医学院纪律法庭 1855年）
 Dialogue: 0,0:21:12.79,0:21:13.95,Default,,0,0,0,,我们出生了\NWe are born.
-Dialogue: 0,0:21:14.62,0:21:15.50,Default,,0,0,0,,Hmm?
+Dialogue: 0,0:21:14.62,0:21:15.50,Default,,0,0,0,,嗯?\NHmm?
 Dialogue: 0,0:21:15.58,0:21:18.41,Default,,0,0,0,,刚上去没多久 就掉下来了\NAnd no sooner do we rise, we fall.
 Dialogue: 0,0:21:19.41,0:21:20.50,Default,,0,0,0,,死了\NDeath.
 Dialogue: 0,0:21:22.45,0:21:25.91,Default,,0,0,0,,这一起一落之间\NAnd in the space between that rise and fall,
@@ -279,8 +277,7 @@ Dialogue: 0,0:21:55.58,0:21:58.79,Default,,0,0,0,,我们凭什么能掌控？ �
 Dialogue: 0,0:21:59.41,0:22:02.66,Default,,0,0,0,,但要是我们能像神明那般大胆\NBut if we are to behave as immodestly as gods,
 Dialogue: 0,0:22:02.75,0:22:05.62,Default,,0,0,0,,那至少能够创造奇迹\Nwe must, at the very least, deliver miracles.
 Dialogue: 0,0:22:06.12,0:22:07.25,Default,,0,0,0,,是不是？\NWouldn't you say?
-Dialogue: 0,0:22:08.25,0:22:12.45,Default,,0,0,0,,在年轻学子心中点燃神圣火花\NIgnite a divine spark…
-Dialogue: 0,0:22:10.45,0:22:12.45,Default,,0,0,0,,…in these young students' minds.
+Dialogue: 0,0:22:08.25,0:22:12.45,Default,,0,0,0,,在年轻学子心中点燃神圣火花\NIgnite a divine spark…in these young students' minds.
 Dialogue: 0,0:22:12.54,0:22:15.70,Default,,0,0,0,,教导他们抛弃顺从 违抗权威\NTeach them defiance rather than obedience.
 Dialogue: 0,0:22:15.79,0:22:21.45,Default,,0,0,0,,展示人类有可能掌控自然奥秘 让死亡不再发生\NShow that man may pursue nature to her hiding places and stop death.
 Dialogue: 0,0:22:21.54,0:22:24.45,Default,,0,0,0,,不是延缓死亡 而是长生不老！\NNot slow it down, but stop it entirely!
@@ -302,8 +299,7 @@ Dialogue: 0,0:23:37.79,0:23:39.37,Default,,0,0,0,,遵循一种完全不同的概
 Dialogue: 0,0:23:39.45,0:23:41.29,Default,,0,0,0,,一种称为气的东方概念\NAn Eastern notion called qi.
 Dialogue: 0,0:23:41.91,0:23:45.12,Default,,0,0,0,,这种概念认为 生命能量的流动 同时存在于身体内外\NNow, it considers the vital flow of energy both within and without.
 Dialogue: 0,0:23:45.20,0:23:46.87,Default,,0,0,0,,我用针在六个…\NI'm utilizing needles in six--
-Dialogue: 0,0:23:46.95,0:23:51.04,Default,,0,0,0,,安静！都坐下！\NQuiet!
-Dialogue: 0,0:23:48.87,0:23:51.04,Default,,0,0,0,,Sit down!
+Dialogue: 0,0:23:46.95,0:23:51.04,Default,,0,0,0,,安静！都坐下！\NQuiet! Sit down!
 Dialogue: 0,0:23:52.75,0:23:56.04,Default,,0,0,0,,医生 这是听证会 不是狂欢节表演\NThis is a hearing, Doctor, not a carnival act.
 Dialogue: 0,0:23:56.12,0:23:58.08,Default,,0,0,0,,你这样无济于事 维克多\NYou're not helping your cause, Victor.
 Dialogue: 0,0:23:58.16,0:24:00.75,Default,,0,0,0,,这种用电的诡计根本没用\NThis galvanic trickery will simply not do.
@@ -320,9 +316,7 @@ Dialogue: 0,0:24:33.45,0:24:34.66,Default,,0,0,0,,礼貌一点总有效果\N"Ple
 Dialogue: 0,0:24:36.00,0:24:39.16,Default,,0,0,0,,赶紧关了吧 你个江湖骗子\NTurn that off at once. At once, you charlatan.
 Dialogue: 0,0:24:39.25,0:24:42.12,Default,,0,0,0,,这就是未来 这是有可能实现的\NThis is the future. This is possible.
 Dialogue: 0,0:24:42.20,0:24:44.29,Default,,0,0,0,,为什么不研究一下 量化一下呢？\NWhy not study it? Why not quantify it?
-Dialogue: 0,0:24:44.37,0:24:50.66,Default,,0,0,0,,这是罪恶的 可恨、下流！\NThis is unholy.
-Dialogue: 0,0:24:47.04,0:24:49.04,Default,,0,0,0,,An abomination.
-Dialogue: 0,0:24:49.12,0:24:50.29,Default,,0,0,0,,An obscenity!
+Dialogue: 0,0:24:44.37,0:24:50.66,Default,,0,0,0,,这是罪恶的 可恨、下流！\NThis is unholy. An abomination. An obscenity!
 Dialogue: 0,0:24:51.16,0:24:55.91,Default,,0,0,0,,生命由上帝赐予 由上帝收回 维克多\NGod gives life, and God takes it, Victor.
 Dialogue: 0,0:24:56.00,0:24:58.50,Default,,0,0,0,,或许上帝就是无能！\NPerhaps God is inept!
 Dialogue: 0,0:24:59.91,0:25:02.33,Default,,0,0,0,,要由我们来纠正他的错误！\NAnd it is we that must amend his mistakes!
@@ -393,7 +387,7 @@ Dialogue: 0,0:29:07.41,0:29:09.16,Default,,0,0,0,,我已经迷上了\NAlready a 
 Dialogue: 0,0:29:09.75,0:29:11.08,Default,,0,0,0,,文件都带来了吗？\NDid you bring the papers?
 Dialogue: 0,0:29:12.54,0:29:13.58,Default,,0,0,0,,谢谢\NOh, thank you.
 Dialogue: 0,0:29:17.20,0:29:19.37,Default,,0,0,0,,-你非常出色 -谢谢\N-You're extraordinary. -Thank you.
-Dialogue: 0,0:29:20.58,0:29:21.54,Default,,0,0,0,,Hmm.
+Dialogue: 0,0:29:20.58,0:29:21.54,Default,,0,0,0,,嗯\NHmm.
 Dialogue: 0,0:29:23.37,0:29:27.62,Default,,0,0,0,,你利用神经系统来传递能量脉冲\NYou're using the nervous system to deliver the surge of energy.
 Dialogue: 0,0:29:28.70,0:29:29.66,Default,,0,0,0,,对吗？\NAre you not?
 Dialogue: 0,0:29:29.75,0:29:30.91,Default,,0,0,0,,没错\NCorrect.
@@ -450,7 +444,6 @@ Dialogue: 0,0:32:20.12,0:32:23.20,Default,,0,0,0,,别假装冷静了 错过了�
 Dialogue: 0,0:32:33.62,0:32:34.95,Default,,0,0,0,,维克多\NVictor.
 Dialogue: 0,0:32:35.04,0:32:36.16,Default,,0,0,0,,威廉！\NWilliam!
 Dialogue: 0,0:32:36.25,0:32:38.70,Default,,0,0,0,,-维克多 -瞧瞧你\N-Victor. -Look at you.
-Dialogue: 0,0:32:38.79,0:32:41.62,Default,,0,0,0,,My, you've grown.
 Dialogue: 0,0:32:39.95,0:32:41.62,Default,,0,0,0,,老天 你长大了\NMy, you've grown.
 Dialogue: 0,0:32:41.70,0:32:43.20,Default,,0,0,0,,可惜不是我的功劳\NThrough no merit of my own.
 Dialogue: 0,0:32:44.04,0:32:46.04,Default,,0,0,0,,来见见我的未婚妻吧\NMay I introduce the woman I'm to marry.
@@ -459,8 +452,8 @@ Dialogue: 0,0:33:09.70,0:33:11.45,Default,,0,0,0,,荣幸之至\NAbsolutely delig
 Dialogue: 0,0:33:16.95,0:33:19.25,Default,,0,0,0,,听到你被驱逐 说实话我也不惊讶\NCan't say I was shocked when you were expelled,
 Dialogue: 0,0:33:19.87,0:33:22.45,Default,,0,0,0,,但他们的态度太强硬 言语太狠毒\Nbut the manner and virulence of your expulsion,
 Dialogue: 0,0:33:22.54,0:33:23.70,Default,,0,0,0,,我认为实在没有必要\Nuncalled for, I'm sure.
-Dialogue: 0,0:33:23.79,0:33:24.91,Default,,0,0,0,,有必要\NNo, it was called for. I earned it.
-Dialogue: 0,0:33:25.00,0:33:26.00,Default,,0,0,0,,我应得的
+Dialogue: 0,0:33:23.79,0:33:24.91,Default,,0,0,0,,有必要\NNo, it was called for. 
+Dialogue: 0,0:33:25.00,0:33:26.00,Default,,0,0,0,,我应得的\NI earned it.
 Dialogue: 0,0:33:26.50,0:33:29.00,Default,,0,0,0,,我特意挣来的 你说是不是 哈兰德先生？\NI made it a point to earn it, wouldn't you say, Herr Harlander?
 Dialogue: 0,0:33:29.08,0:33:30.66,Default,,0,0,0,,确实声势浩大\NIt was quite an exit, I assure you.
 Dialogue: 0,0:33:32.33,0:33:33.41,Default,,0,0,0,,为什么要激怒他们？\NWhy provoke them?
@@ -475,8 +468,7 @@ Dialogue: 0,0:33:58.33,0:34:01.62,Default,,0,0,0,,即便在小时候 我也常�
 Dialogue: 0,0:34:01.70,0:34:04.58,Default,,0,0,0,,这样的事发生无数次了吧 维克多 你说呢？\NPerhaps too much and far too many times, wouldn't you say, Victor?
 Dialogue: 0,0:34:04.66,0:34:06.41,Default,,0,0,0,,如果可以再造生命\NIf life can be regenerated,
 Dialogue: 0,0:34:06.95,0:34:08.20,Default,,0,0,0,,并非简单的模拟\Nnot as a mere simulation,
-Dialogue: 0,0:34:08.29,0:34:12.20,Default,,0,0,0,,而是通过物理化学手段 如神迹般地再造 何不大声说出来？\Nbut as a divine act by physical, chemical means,
-Dialogue: 0,0:34:11.25,0:34:13.00,Default,,0,0,0,,why whisper it?
+Dialogue: 0,0:34:08.29,0:34:12.20,Default,,0,0,0,,而是通过物理化学手段 如神迹般地再造 何不大声说出来？\Nbut as a divine act by physical, chemical means, why whisper it?
 Dialogue: 0,0:34:16.00,0:34:16.87,Default,,0,0,0,,你笑了？\NYou laugh?
 Dialogue: 0,0:34:17.37,0:34:19.70,Default,,0,0,0,,-你觉得好笑吗？ -没错\N-You're amused? -I must be, yes.
 Dialogue: 0,0:34:19.79,0:34:21.12,Default,,0,0,0,,我的理念没表达清楚吗？\NAre my ideas not clear?
@@ -505,7 +497,7 @@ Dialogue: 0,0:35:27.37,0:35:31.29,Default,,0,0,0,,他们好好地待在家中 �
 Dialogue: 0,0:35:32.41,0:35:35.45,Default,,0,0,0,,皮肤完好无损 被窝温暖洁净\Ntheir skin unpierced, their blankets warm and clean.
 Dialogue: 0,0:35:38.12,0:35:40.87,Default,,0,0,0,,这就是蠢人追求理念的后果\NThat is what happens when ideas are pursued by fools.
 Dialogue: 0,0:35:40.95,0:35:42.70,Default,,0,0,0,,那你觉得我是蠢人\NAnd you think me a fool?
-Dialogue: 0,0:35:43.54,0:35:44.37,Default,,0,0,0,,Hmm?
+Dialogue: 0,0:35:43.54,0:35:44.37,Default,,0,0,0,,嗯?\NHmm?
 Dialogue: 0,0:35:46.33,0:35:47.91,Default,,0,0,0,,快享用你的白兰地和雪茄去吧\NRun to your brandy and cigars.
 Dialogue: 0,0:35:48.58,0:35:49.91,Default,,0,0,0,,他们都在等着呢\NThe boys are waiting.
 Dialogue: 0,0:35:56.33,0:36:01.16,Default,,0,0,0,,一个人常常以为遇见了天使或魔鬼\NHow often a man believes he's met an angel or a devil,
@@ -573,8 +565,7 @@ Dialogue: 0,0:40:57.12,0:41:00.54,Default,,0,0,0,,真是碰巧 被我找到了�
 Dialogue: 0,0:41:00.62,0:41:01.62,Default,,0,0,0,,我…\Nand I…
 Dialogue: 0,0:41:03.95,0:41:05.66,Default,,0,0,0,,我就要揭开谜底了\NI was about to find out.
 Dialogue: 0,0:41:26.87,0:41:28.70,Default,,0,0,0,,神父 请为我祝福 我有罪\NBless me, Father, for I have sinned.
-Dialogue: 0,0:41:29.58,0:41:33.25,Default,,0,0,0,,孩子 你多久没告解了？\NHow long has it been
-Dialogue: 0,0:41:31.29,0:41:33.29,Default,,0,0,0,,since your last confession, my daughter?
+Dialogue: 0,0:41:29.58,0:41:33.25,Default,,0,0,0,,孩子 你多久没告解了？\NHow long has it been since your last confession, my daughter?
 Dialogue: 0,0:41:33.33,0:41:35.54,Default,,0,0,0,,还没到一周 神父 我在修道院待过\NBarely a week, Father. I was in a convent.
 Dialogue: 0,0:41:36.04,0:41:37.12,Default,,0,0,0,,就一周？\NA week?
 Dialogue: 0,0:41:38.45,0:41:40.58,Default,,0,0,0,,你就这么轻率地犯错了？\NTsk-tsk. Have you so hastily committed sin?
@@ -626,8 +617,8 @@ Dialogue: 0,0:44:07.83,0:44:08.87,Default,,0,0,0,,很好\NVery well.
 Dialogue: 0,0:44:19.37,0:44:20.58,Default,,0,0,0,,笑起来！\NLaughter!
 Dialogue: 0,0:44:23.00,0:44:24.62,Default,,0,0,0,,生平第一次\NAnd for the very first time,
 Dialogue: 0,0:44:25.50,0:44:27.62,Default,,0,0,0,,不知何故 我对生的兴趣渐浓\NI became more interested in life
-Dialogue: 0,0:44:28.20,0:44:30.95,Default,,0,0,0,,对死的兴趣\Nand somewhat less interested in death.
-Dialogue: 0,0:44:31.04,0:44:32.16,Default,,0,0,0,,减淡了
+Dialogue: 0,0:44:28.20,0:44:30.95,Default,,0,0,0,,对死的兴趣\Nand somewhat less interested
+Dialogue: 0,0:44:31.04,0:44:32.16,Default,,0,0,0,,减淡了\N in death.
 Dialogue: 0,0:44:50.87,0:44:55.29,Default,,0,0,0,,主杆采用快速螺栓固定系统\NThe main rod has a fast bolting system.
 Dialogue: 0,0:44:56.00,0:44:57.33,Default,,0,0,0,,用合金了吗？\NDid you use an alloy?
 Dialogue: 0,0:44:58.33,0:44:59.87,Default,,0,0,0,,铜锌合金\NCopper and zinc.
@@ -649,8 +640,8 @@ Dialogue: 0,0:45:52.45,0:45:55.12,Default,,0,0,0,,他严格按我的指示办事
 Dialogue: 0,0:45:57.66,0:45:58.70,Default,,0,0,0,,电池\NThe battery.
 Dialogue: 0,0:46:07.58,0:46:09.04,Default,,0,0,0,,现在是纯银的了\NIt's all pure silver now.
 Dialogue: 0,0:46:09.70,0:46:13.12,Default,,0,0,0,,这是和淋巴系统相对应的传导点\NConduction points corresponding to the lymphatic system,
-Dialogue: 0,0:46:14.25,0:46:18.20,Default,,0,0,0,,非常复杂 但我做出来了\Nwhich was quite complex.
-Dialogue: 0,0:46:17.33,0:46:19.25,Default,,0,0,0,,-But I managed. -Mm-hmm.
+Dialogue: 0,0:46:14.25,0:46:18.20,Default,,0,0,0,,非常复杂 但我做出来了\Nwhich was quite complex. -But I managed.
+Dialogue: 0,0:46:17.33,0:46:19.25,Default,,0,0,0,,嗯哼\NMm-hmm.
 Dialogue: 0,0:46:59.79,0:47:03.00,Default,,0,0,0,,哈兰德先生 谢谢 派对很精彩\NHerr Harlander, thank you. The party's delightful.
 Dialogue: 0,0:47:03.08,0:47:06.12,Default,,0,0,0,,但愿我们没有干扰你做研究\NI hope we're not distracting you from your research
 Dialogue: 0,0:47:07.62,0:47:09.79,Default,,0,0,0,,毕竟你还要顾着我和伊丽莎白\Nto tend to me and Elizabeth.
@@ -676,13 +667,11 @@ Dialogue: 0,0:48:15.58,0:48:19.37,Default,,0,0,0,,一周内找到传递电流的
 Dialogue: 0,0:48:19.45,0:48:20.41,Default,,0,0,0,,绝无可能\NImpossible.
 Dialogue: 0,0:48:21.58,0:48:22.83,Default,,0,0,0,,我该怎么办？\NWhat would I do?
 Dialogue: 0,0:48:22.91,0:48:24.83,Default,,0,0,0,,就快成功了 我感觉得到\NI was close. I could feel it.
-Dialogue: 0,0:48:25.58,0:48:29.50,Default,,0,0,0,,谁知横生阻碍\NAnd then…
-Dialogue: 0,0:48:27.37,0:48:29.50,Default,,0,0,0,,life got in the way.
-Dialogue: 0,0:48:29.58,0:48:30.58,Default,,0,0,0,,Oh.
+Dialogue: 0,0:48:25.58,0:48:29.50,Default,,0,0,0,,谁知横生阻碍\NAnd then…life got in the way.
+Dialogue: 0,0:48:29.58,0:48:30.58,Default,,0,0,0,,哦\NOh.
 Dialogue: 0,0:48:32.45,0:48:33.87,Default,,0,0,0,,它肯定想你了\NI believe she missed you.
-Dialogue: 0,0:48:35.25,0:48:37.91,Default,,0,0,0,,伊丽莎白 我得先警告你一下 我在处理解剖体\NI must warn you, Elizabeth,
-Dialogue: 0,0:48:36.75,0:48:39.04,Default,,0,0,0,,-I've been working on a dissection. -It's beautiful.
-Dialogue: 0,0:48:38.00,0:48:39.04,Default,,0,0,0,,很美\N-I've been working on a dissection. -It's beautiful.
+Dialogue: 0,0:48:35.25,0:48:37.91,Default,,0,0,0,,伊丽莎白 我得先警告你一下 我在处理解剖体\NI must warn you, Elizabeth, I've been working on a dissection.
+Dialogue: 0,0:48:38.00,0:48:39.04,Default,,0,0,0,,很美\NIt's beautiful.
 Dialogue: 0,0:48:41.83,0:48:42.91,Default,,0,0,0,,吓到你了吗？\NDoes it shock you?
 Dialogue: 0,0:48:43.87,0:48:46.25,Default,,0,0,0,,让我想起了殉道主题的绘画\NReminds me of martyrdom paintings.
 Dialogue: 0,0:48:49.70,0:48:50.62,Default,,0,0,0,,没有了痛苦\NPain is gone.
@@ -753,8 +742,7 @@ Dialogue: 0,0:56:55.70,0:56:57.83,Default,,0,0,0,,你我都清楚会怎么发展
 Dialogue: 0,0:56:58.33,0:57:00.62,Default,,0,0,0,,已经在啃噬我的骨头了\NIt starts to eat away my bones,
 Dialogue: 0,0:57:00.70,0:57:06.33,Default,,0,0,0,,眼眶、脸颊、牙齿、下颌、颅骨 层层侵蚀 直到抵达大脑\Norbital, cheek, teeth, jaw, skull, exposing my brain.
 Dialogue: 0,0:57:06.41,0:57:10.16,Default,,0,0,0,,长瘤、发狂、剧痛\NTumors, madness, excruciating pain.
-Dialogue: 0,0:57:11.37,0:57:15.91,Default,,0,0,0,,到某个清晨 我会开始尖叫 停不下来\NOne fine morning,
-Dialogue: 0,0:57:12.95,0:57:15.83,Default,,0,0,0,,I will start to scream and I will never stop.
+Dialogue: 0,0:57:11.37,0:57:15.91,Default,,0,0,0,,到某个清晨 我会开始尖叫 停不下来\NOne fine morning, I will start to scream and I will never stop.
 Dialogue: 0,0:57:16.83,0:57:19.75,Default,,0,0,0,,我无法接受如此不堪地死去\NI cannot face such a vulgar demise.
 Dialogue: 0,0:57:20.45,0:57:23.16,Default,,0,0,0,,于是我想到了我唯一的要求\NWhich brings me to my one condition.
 Dialogue: 0,0:57:23.25,0:57:27.20,Default,,0,0,0,,我们约定好的交易\NOur deal. As agreed, in exchange
@@ -792,7 +780,6 @@ Dialogue: 0,0:59:39.41,0:59:41.16,Default,,0,0,0,,哈兰德先生！\NHerr Harla
 Dialogue: 0,0:59:50.04,0:59:51.29,Default,,0,0,0,,坚持住 看着我！\NHold on, look at me!
 Dialogue: 0,0:59:54.20,0:59:56.37,Default,,0,0,0,,不！哈兰德先生\NNo! Herr Harlander!
 Dialogue: 0,1:00:31.70,1:00:34.45,Default,,0,0,0,,不要啊\NNo, no. No!
-Dialogue: 0,1:00:33.29,1:00:34.45,Default,,0,0,0,,No, no. No!
 Dialogue: 0,1:02:06.75,1:02:08.08,Default,,0,0,0,,不！\NNo, no, no!
 Dialogue: 0,1:02:08.70,1:02:09.54,Default,,0,0,0,,不！\NNo!
 Dialogue: 0,1:02:24.37,1:02:28.50,Default,,0,0,0,,不！\NNo! No! No!
@@ -822,8 +809,7 @@ Dialogue: 0,1:05:15.83,1:05:17.91,Default,,0,0,0,,-有我叔叔的来信吗？ -
 Dialogue: 0,1:05:23.16,1:05:24.95,Default,,0,0,0,,或许我们该去拜访一下他们了\NPerhaps we should pay them a visit.
 Dialogue: 0,1:05:28.37,1:05:30.29,Default,,0,0,0,,小心 看着脚下\NCareful. Look. Look down.
 Dialogue: 0,1:05:32.33,1:05:34.50,Default,,0,0,0,,水\NWater. Water.
-Dialogue: 0,1:05:35.75,1:05:37.87,Default,,0,0,0,,Water.
-Dialogue: 0,1:05:36.91,1:05:37.87,Default,,0,0,0,,水
+Dialogue: 0,1:05:36.91,1:05:37.87,Default,,0,0,0,,水\NWater.
 Dialogue: 0,1:05:37.95,1:05:39.66,Default,,0,0,0,,对 水\NYes, water.
 Dialogue: 0,1:05:39.75,1:05:41.08,Default,,0,0,0,,-维克多 -不 我是维克多\N-Victor. -No, I'm Victor.
 Dialogue: 0,1:05:41.16,1:05:42.50,Default,,0,0,0,,这是水 来这里\NThat's water. Come here.
@@ -846,11 +832,10 @@ Dialogue: 0,1:06:24.29,1:06:25.16,Default,,0,0,0,,钥匙\NKey.
 Dialogue: 0,1:06:26.29,1:06:27.41,Default,,0,0,0,,维克多\NVictor.
 Dialogue: 0,1:06:30.33,1:06:32.20,Default,,0,0,0,,这样你就不会着凉了\NThis will keep you nice and warm.
 Dialogue: 0,1:06:32.29,1:06:34.00,Default,,0,0,0,,披上一条好毯子 暖暖的\NNice blanket to keep you warm.
-Dialogue: 0,1:06:34.54,1:06:36.08,Default,,0,0,0,,维克多\N-Victor. -All right.
-Dialogue: 0,1:06:36.16,1:06:37.37,Default,,0,0,0,,好了
+Dialogue: 0,1:06:34.54,1:06:36.08,Default,,0,0,0,,维克多\N-Victor. 
+Dialogue: 0,1:06:36.16,1:06:37.37,Default,,0,0,0,,好了\NAll right.
 Dialogue: 0,1:06:38.54,1:06:39.45,Default,,0,0,0,,你待在这里\NYou stay.
 Dialogue: 0,1:06:40.37,1:06:41.91,Default,,0,0,0,,就待在这里\NYou stay here now.
-Dialogue: 0,1:06:43.12,1:06:45.29,Default,,0,0,0,,Stay here now.
 Dialogue: 0,1:06:44.54,1:06:45.91,Default,,0,0,0,,待着别动\NStay here now.
 Dialogue: 0,1:06:46.75,1:06:48.45,Default,,0,0,0,,我去去就回 待着别动\NI'll be back. All right. Stay there.
 Dialogue: 0,1:06:51.33,1:06:52.37,Default,,0,0,0,,维克多\NVictor.
@@ -934,14 +919,12 @@ Dialogue: 0,1:11:11.70,1:11:12.58,Default,,0,0,0,,维克多\NVictor.
 Dialogue: 0,1:11:14.25,1:11:17.16,Default,,0,0,0,,够了！那么…\NNo, yes, no, yes! How about…
 Dialogue: 0,1:11:17.25,1:11:18.95,Default,,0,0,0,,手呢？手会说吗？\NHow about "hand"? Can you say "hand"?
 Dialogue: 0,1:11:19.04,1:11:20.75,Default,,0,0,0,,手 说啊…\NHand. Hand.
-Dialogue: 0,1:11:24.66,1:11:27.33,Default,,0,0,0,,Oh. Oh, oh. You are afraid of me?
 Dialogue: 0,1:11:25.87,1:11:27.33,Default,,0,0,0,,你这是怕我吗？\NOh. Oh, oh. You are afraid of me?
 Dialogue: 0,1:11:28.62,1:11:30.25,Default,,0,0,0,,你怕我？\NYou're afraid of me?
 Dialogue: 0,1:11:30.33,1:11:32.58,Default,,0,0,0,,为什么？为什么你会怕我？\NWhy? Why would you be afraid of me?
 Dialogue: 0,1:11:32.66,1:11:34.04,Default,,0,0,0,,我不会伤害你的\NI'm not going to hurt you.
 Dialogue: 0,1:11:34.70,1:11:36.41,Default,,0,0,0,,我不会伤害你的 是我造了你\NI'm not going to hurt you. I made you.
 Dialogue: 0,1:11:37.00,1:11:38.29,Default,,0,0,0,,是我造了你！别这样了！\NI'm your maker! Stop it!
-Dialogue: 0,1:11:54.20,1:11:55.04,Default,,0,0,0,,Oh.
 Dialogue: 0,1:11:56.45,1:11:58.29,Default,,0,0,0,,你们来了 真的来了\NYou're here. You're really here.
 Dialogue: 0,1:11:59.16,1:12:00.87,Default,,0,0,0,,来吧 快进来\NCome on, then. Come, come.
 Dialogue: 0,1:12:02.41,1:12:04.91,Default,,0,0,0,,伊丽莎白 我得说 我有好多东西要给你看\NI have to tell you. I have so much to show you, Elizabeth.
@@ -1022,9 +1005,8 @@ Dialogue: 0,1:19:53.75,1:19:56.95,Default,,0,0,0,,伊丽莎…白\NEliza… beth
 Dialogue: 0,1:19:58.83,1:20:00.58,Default,,0,0,0,,你不该靠近那东西的\NYou should not go near it.
 Dialogue: 0,1:20:02.66,1:20:03.54,Default,,0,0,0,,那东西？\N"It"?
 Dialogue: 0,1:20:05.66,1:20:07.66,Default,,0,0,0,,没错 那东西\NIt. Yes.
-Dialogue: 0,1:20:08.25,1:20:12.37,Default,,0,0,0,,那东西是活的 但没有智慧的火花\NI believe there is life in it,
-Dialogue: 0,1:20:09.95,1:20:13.45,Default,,0,0,0,,but not the spark of intelligence that I had intended.
-Dialogue: 0,1:20:12.45,1:20:13.45,Default,,0,0,0,,我故意这么设计的
+Dialogue: 0,1:20:08.25,1:20:12.37,Default,,0,0,0,,那东西是活的 但没有智慧的火花\NI believe there is life in it, but not the spark of intelligence 
+Dialogue: 0,1:20:12.45,1:20:13.45,Default,,0,0,0,,我故意这么设计的\Nthat I had intended.
 Dialogue: 0,1:20:13.54,1:20:15.16,Default,,0,0,0,,可能不是你想象的那样\NPerhaps not as you understand it.
 Dialogue: 0,1:20:15.25,1:20:16.87,Default,,0,0,0,,什么地方出了差错\NSomething went wrong.
 Dialogue: 0,1:20:16.95,1:20:19.37,Default,,0,0,0,,阻塞了 缝合了 连通了\NA blockage, a suture, a connection.
@@ -1116,8 +1098,7 @@ Dialogue: 0,1:27:33.79,1:27:37.08,Default,,0,0,0,,我试着创造生命 结果�
 Dialogue: 0,1:27:43.33,1:27:45.95,Default,,0,0,0,,看来又要和他们聊聊了\NIt would seem I need to address my men again.
 Dialogue: 0,1:27:50.29,1:27:51.12,Default,,0,0,0,,别担心\NDon't worry.
 Dialogue: 0,1:27:52.00,1:27:52.95,Default,,0,0,0,,他们会听我的话的\NThey'll listen to me.
-Dialogue: 0,1:27:57.20,1:28:00.45,Default,,0,0,0,,住手！别伤害他！我在这里\NNo, no, stop!
-Dialogue: 0,1:27:58.58,1:28:00.37,Default,,0,0,0,,Do not harm him! I'm here.
+Dialogue: 0,1:27:57.20,1:28:00.45,Default,,0,0,0,,住手！别伤害他！我在这里\NNo, no, stop! Do not harm him! I'm here.
 Dialogue: 0,1:28:00.95,1:28:01.95,Default,,0,0,0,,带走我吧\NTake me.
 Dialogue: 0,1:28:02.87,1:28:04.04,Default,,0,0,0,,来吧 野兽\NGo on, beast.
 Dialogue: 0,1:28:04.12,1:28:07.58,Default,,0,0,0,,把我俩都杀了 证明造你的人说的都是真的\NKill us both. Confirm your maker's tale.
@@ -1125,12 +1106,10 @@ Dialogue: 0,1:28:13.50,1:28:18.04,Default,,0,0,0,,造我的人 说了他的故�
 Dialogue: 0,1:28:23.87,1:28:26.66,Default,,0,0,0,,那我也来说说我的\NThen I will tell you mine.
 Dialogue: 0,1:28:30.16,1:28:33.08,Default,,0,0,0,,（第二部分 那头怪物的故事）
 Dialogue: 0,1:28:42.79,1:28:48.41,Default,,0,0,0,,维克多！\NVictor!
-Dialogue: 0,1:28:44.25,1:28:48.41,Default,,0,0,0,,Victor! Victor! Victor!
 Dialogue: 0,1:28:48.50,1:28:52.83,Default,,0,0,0,,我反复呼唤你的名字 终于发现这里只有我\NI called your name and understood I was alone.
 Dialogue: 0,1:32:52.87,1:32:54.20,Default,,0,0,0,,-那是什么？ -开枪！\N-What is that? -Shoot at it!
 Dialogue: 0,1:32:54.29,1:32:55.12,Default,,0,0,0,,开枪！\NShoot it!
 Dialogue: 0,1:33:00.95,1:33:02.33,Default,,0,0,0,,打到了吗？\NDid you get it?
-Dialogue: 0,1:33:03.58,1:33:04.45,Default,,0,0,0,,喂！
 Dialogue: 0,1:33:05.62,1:33:06.70,Default,,0,0,0,,去哪了？\NWhere is it?
 Dialogue: 0,1:33:27.08,1:33:28.91,Default,,0,0,0,,身上的伤口愈合了\NMy wounds had healed.
 Dialogue: 0,1:33:31.91,1:33:35.70,Default,,0,0,0,,但我觉得寒冷刺骨\NBut I felt cold, so cold.
@@ -1185,7 +1164,6 @@ Dialogue: 0,1:37:42.91,1:37:43.75,Default,,0,0,0,,好\NAll right.
 Dialogue: 0,1:37:43.83,1:37:46.75,Default,,0,0,0,,我能为他们做点什么呢？\NWhat could I possibly do for them?
 Dialogue: 0,1:37:52.29,1:37:55.25,Default,,0,0,0,,安娜玛丽亚！父亲！\NAnna-Maria! Father!
 Dialogue: 0,1:37:55.33,1:37:57.45,Default,,0,0,0,,快来看啊！\NCome! Come and see!
-Dialogue: 0,1:37:58.45,1:38:01.08,Default,,0,0,0,,Look, Anna-Maria!
 Dialogue: 0,1:37:59.50,1:38:01.08,Default,,0,0,0,,看啊 安娜玛丽亚！\NLook, Anna-Maria!
 Dialogue: 0,1:38:01.16,1:38:02.87,Default,,0,0,0,,看 还有呢！快看！\NLook, there's more! Look!
 Dialogue: 0,1:38:05.08,1:38:06.62,Default,,0,0,0,,这会是谁送来的？\NWho could have done this?
@@ -1262,8 +1240,8 @@ Dialogue: 0,1:43:28.91,1:43:31.00,Default,,0,0,0,,你是不是从别的地方来
 Dialogue: 0,1:43:36.79,1:43:37.66,Default,,0,0,0,,你害怕吗？\NAre you afraid?
 Dialogue: 0,1:43:39.62,1:43:40.87,Default,,0,0,0,,不用怕\NNo need to be.
 Dialogue: 0,1:43:45.87,1:43:47.50,Default,,0,0,0,,你在怕什么？\NWhat are you afraid of?
-Dialogue: 0,1:43:48.25,1:43:49.29,Default,,0,0,0,,什么都怕\N-Everything. -Your…
-Dialogue: 0,1:43:49.37,1:43:50.20,Default,,0,0,0,,你的…
+Dialogue: 0,1:43:48.25,1:43:49.29,Default,,0,0,0,,什么都怕\N-Everything. 
+Dialogue: 0,1:43:49.37,1:43:50.20,Default,,0,0,0,,你的…\N-Your…
 Dialogue: 0,1:43:50.79,1:43:53.25,Default,,0,0,0,,你的手好冷\NYour hands are frozen
 Dialogue: 0,1:43:53.79,1:43:57.45,Default,,0,0,0,,你还受伤了\Nand you've been hurt, have you not?
 Dialogue: 0,1:43:57.54,1:43:58.41,Default,,0,0,0,,受伤？\NHurt?
@@ -1272,7 +1250,6 @@ Dialogue: 0,1:44:05.33,1:44:06.95,Default,,0,0,0,,你还穿着制服\Nand you ar
 Dialogue: 0,1:44:07.04,1:44:08.87,Default,,0,0,0,,是在战斗中受的伤吗？\NWere you injured in battle?
 Dialogue: 0,1:44:12.12,1:44:12.95,Default,,0,0,0,,你一直\NYou were hiding
 Dialogue: 0,1:44:14.08,1:44:16.50,Default,,0,0,0,,躲在磨坊齿轮里面 对吧？\Nin the mill gears, were you not?
-Dialogue: 0,1:44:18.37,1:44:19.75,Default,,0,0,0,,Ah!
 Dialogue: 0,1:44:21.08,1:44:24.25,Default,,0,0,0,,对 你就是森林精灵\NYeah. Yeah. The Spirit of the Forest.
 Dialogue: 0,1:44:24.33,1:44:25.16,Default,,0,0,0,,没错\NYes.
 Dialogue: 0,1:44:26.04,1:44:28.50,Default,,0,0,0,,我看不到你的面容\NI cannot judge of your countenance,
@@ -1405,7 +1382,6 @@ Dialogue: 0,1:58:26.29,1:58:28.08,Default,,0,0,0,,我想卖了那座庄园\NI in
 Dialogue: 0,1:58:31.50,1:58:33.54,Default,,0,0,0,,我们只有彼此了\NAll we have is each other.
 Dialogue: 0,1:58:49.25,1:58:51.16,Default,,0,0,0,,往四面八方撒\NI want you to throw the petals everywhere.
 Dialogue: 0,1:58:51.25,1:58:52.66,Default,,0,0,0,,到处都撒一点\NThrow them everywhere.
-Dialogue: 0,1:58:53.66,1:58:54.58,Default,,0,0,0,,Mm.
 Dialogue: 0,1:58:55.20,1:58:56.95,Default,,0,0,0,,到楼上去 再多撒点\NGo upstairs and do some more of that.
 Dialogue: 0,1:59:06.37,1:59:09.83,Default,,0,0,0,,我知道 婚礼前见新娘会带来厄运\NI know it is bad luck to see the bride before the ceremony.
 Dialogue: 0,1:59:10.45,1:59:11.66,Default,,0,0,0,,只对新郎起效\NOnly for the groom.
@@ -1430,7 +1406,6 @@ Dialogue: 0,2:01:29.29,2:01:30.70,Default,,0,0,0,,是我造得好\NI made you we
 Dialogue: 0,2:01:30.79,2:01:37.45,Default,,0,0,0,,我要你给我造一个同伴\NI need you to make a companion for me.
 Dialogue: 0,2:01:38.16,2:01:40.20,Default,,0,0,0,,像我这样的\NOne like me.
 Dialogue: 0,2:01:40.29,2:01:42.00,Default,,0,0,0,,同伴？\NA com… A companion?
-Dialogue: 0,2:01:46.12,2:01:46.95,Default,,0,0,0,,Oh.
 Dialogue: 0,2:01:48.04,2:01:49.04,Default,,0,0,0,,我知道了\NI see.
 Dialogue: 0,2:01:53.33,2:01:54.66,Default,,0,0,0,,再来个怪物\NAnother monster.
 Dialogue: 0,2:01:55.33,2:01:56.33,Default,,0,0,0,,对\NYes.
@@ -1452,7 +1427,6 @@ Dialogue: 0,2:02:48.45,2:02:52.54,Default,,0,0,0,,再造一个像我一样的\NM
 Dialogue: 0,2:02:54.29,2:02:55.41,Default,,0,0,0,,然后呢？\NAnd then what?
 Dialogue: 0,2:02:56.50,2:02:58.20,Default,,0,0,0,,生育\NProcreation.
 Dialogue: 0,2:03:00.00,2:03:01.62,Default,,0,0,0,,繁殖\NReproduction.
-Dialogue: 0,2:03:02.58,2:03:03.70,Default,,0,0,0,,Mm…
 Dialogue: 0,2:03:06.45,2:03:07.62,Default,,0,0,0,,建立家庭？\NA home?
 Dialogue: 0,2:03:08.54,2:03:09.95,Default,,0,0,0,,建造坟墓？\NA grave?
 Dialogue: 0,2:03:11.54,2:03:15.25,Default,,0,0,0,,死亡与破坏不断上演\NDeath begetting death begetting death.
@@ -1462,7 +1436,6 @@ Dialogue: 0,2:03:20.41,2:03:23.91,Default,,0,0,0,,在你看来我很肮脏 在�
 Dialogue: 0,2:03:24.00,2:03:25.16,Default,,0,0,0,,滚开！\NBegone!
 Dialogue: 0,2:03:27.62,2:03:33.83,Default,,0,0,0,,我绝不会再造一个 像你这么邪恶丑陋的东西\NNever again will I make something like you, wicked and deformed.
 Dialogue: 0,2:03:38.29,2:03:44.33,Default,,0,0,0,,这一切还不都是 源自你的执念 维克多\NThen it is still all about your will, Victor.
-Dialogue: 0,2:03:45.08,2:03:46.08,Default,,0,0,0,,Hmm?
 Dialogue: 0,2:03:47.08,2:03:52.41,Default,,0,0,0,,凭恐怖的执念造就我 如今又固执地谴责我\NThat horrible, horrible will that birthed me condemns me now?
 Dialogue: 0,2:03:53.70,2:03:58.33,Default,,0,0,0,,我开口说话算不上奇迹 你愿意倾听才算！\NThe miracle is not that I should speak, but that you would ever listen!
 Dialogue: 0,2:04:02.08,2:04:07.33,Default,,0,0,0,,你不愿赐我伴侣 我将倾泻怒火\NIf you are not to award me love, then I will indulge in rage.
@@ -1526,7 +1499,6 @@ Dialogue: 0,2:12:22.33,2:12:24.04,Default,,0,0,0,,维克多\NVictor.
 Dialogue: 0,2:12:24.12,2:12:27.16,Default,,0,0,0,,只有被我伤到 你才会听我说话\NYou only listen when I hurt you.
 Dialogue: 0,2:12:41.33,2:12:44.87,Default,,0,0,0,,这个 你相信这东西\NThis. You put your faith in this.
 Dialogue: 0,2:12:44.95,2:12:47.25,Default,,0,0,0,,能够摧毁我\NYou think this will unmake me.
-Dialogue: 0,2:12:49.20,2:12:50.04,Default,,0,0,0,,Hmm.
 Dialogue: 0,2:12:51.70,2:12:55.00,Default,,0,0,0,,点着吧 希望如你所愿 但如果失败了\NLight it then and hope it does, but if it does not,
 Dialogue: 0,2:12:55.08,2:12:57.16,Default,,0,0,0,,我会再来找你\NI will come for you again.
 Dialogue: 0,2:12:57.79,2:12:59.12,Default,,0,0,0,,点起来！\NLight it!
