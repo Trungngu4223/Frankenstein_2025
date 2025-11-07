@@ -14,42 +14,42 @@ Style: Default,Microsoft YaHei,21,&H00FFFFFF,&HF0000000,&H00020101,&H00000000,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:20.20,0:00:25.25,Default,,0,0,0,,（序幕）
-Dialogue: 0,0:00:32.25,0:00:37.75,Default,,0,0,0,,（极北之地 1857年）
+Dialogue: 0,0:00:20.31,0:00:25.23,Default,,0,0,0,,{\fad(1000,1000)}（序幕）
+Dialogue: 0,0:00:32.23,0:00:37.77,Default,,0,0,0,,{渐显部分好像是变速的}{\fad(1300,1000)\1c&H00111111}（极北之地 1857年）
 Dialogue: 0,0:00:54.70,0:00:55.70,Default,,0,0,0,,船长！\NCaptain!
 Dialogue: 0,0:01:01.83,0:01:02.83,Default,,0,0,0,,船长！\NCaptain!
-Dialogue: 0,0:01:04.29,0:01:05.50,Default,,0,0,0,,能聊聊吗？\NCan we talk?
-Dialogue: 0,0:01:09.37,0:01:10.50,Default,,0,0,0,,嗯\NHmm.
-Dialogue: 0,0:01:13.08,0:01:14.58,Default,,0,0,0,,我们必须破冰前行\NWe must break through the ice.
-Dialogue: 0,0:01:15.20,0:01:17.04,Default,,0,0,0,,大家都很饿 也累坏了\NThe men are hungry and exhausted.
-Dialogue: 0,0:01:18.08,0:01:20.62,Default,,0,0,0,,要是继续这样下去 恐怕会付出代价\NWe cannot keep up this pace without consequence.
-Dialogue: 0,0:01:25.29,0:01:26.58,Default,,0,0,0,,大家听着！\NListen up, men!
-Dialogue: 0,0:01:27.87,0:01:32.70,Default,,0,0,0,,我们拖得越久 冰就冻得越牢固\NThe more we delay the labor, the firmer the grasp of the ice will become.
-Dialogue: 0,0:01:33.45,0:01:34.75,Default,,0,0,0,,继续干活\NThe work continues.
-Dialogue: 0,0:01:35.29,0:01:36.70,Default,,0,0,0,,各组轮流作业\NRotate each group.
+Dialogue: 0,0:01:04.29,0:01:05.50,Default,,0,0,0,,能谈谈吗？\NCan we talk?
+Dialogue: 0,0:01:09.37,0:01:10.50,Default,,0,0,0,,{【感觉可以省略这句】}嗯\NHmm.
+Dialogue: 0,0:01:13.08,0:01:14.58,Default,,0,0,0,,不破冰船没法动了\NWe must break through the ice.
+Dialogue: 0,0:01:15.20,0:01:17.04,Default,,0,0,0,,大家都又累又饿\NThe men are hungry and exhausted.
+Dialogue: 0,0:01:18.08,0:01:20.62,Default,,0,0,0,,继续这样下去 恐怕损失很大\NWe cannot keep up this pace without consequence.
+Dialogue: 0,0:01:25.29,0:01:26.58,Default,,0,0,0,,大伙听着！\NListen up, men!
+Dialogue: 0,0:01:27.87,0:01:32.70,Default,,0,0,0,,我们拖得越久 冰就冻得越牢\NThe more we delay the labor, the firmer the grasp of the ice will become.
+Dialogue: 0,0:01:33.45,0:01:34.75,Default,,0,0,0,,抓紧干\NThe work continues.
+Dialogue: 0,0:01:35.29,0:01:36.70,Default,,0,0,0,,分组轮流休息\NRotate each group.
 Dialogue: 0,0:01:36.79,0:01:37.95,Default,,0,0,0,,先生 请听我说\NSir, with respect…
-Dialogue: 0,0:01:38.45,0:01:39.91,Default,,0,0,0,,大家需要一句准话\NThe men need assurances.
+Dialogue: 0,0:01:38.45,0:01:39.91,Default,,0,0,0,,大伙想听一句准话\NThe men need assurances.
 Dialogue: 0,0:01:40.00,0:01:40.95,Default,,0,0,0,,准话？\NAssurances?
-Dialogue: 0,0:01:41.04,0:01:44.79,Default,,0,0,0,,对 就是让船动起来之后 我们会回圣彼得堡去\NYes, that we will head back to St. Petersburg once we free the ship.
+Dialogue: 0,0:01:41.04,0:01:44.79,Default,,0,0,0,,对 就是船能动之后 我们掉头回圣彼得堡\NYes, that we will head back to St. Petersburg once we free the ship.
 Dialogue: 0,0:01:44.87,0:01:47.58,Default,,0,0,0,,他们觉得我们的船航行不了多久了 他们想知道…\NThey don't think we'll be seaworthy for long and they want to know--
 Dialogue: 0,0:01:47.66,0:01:49.08,Default,,0,0,0,,都听好了！\NListen up!
-Dialogue: 0,0:01:50.91,0:01:55.87,Default,,0,0,0,,别的任何事情 都不是你们和这位长官该考虑的\NIt is neither your place, nor the officer here, to think anything…
-Dialogue: 0,0:01:55.95,0:01:59.12,Default,,0,0,0,,我们接受了一项任务 就要把它完成\NWe signed up for a mission and we will see it to completion.
-Dialogue: 0,0:01:59.83,0:02:01.75,Default,,0,0,0,,我们一定会到达北极\NWe will reach the North Pole.
+Dialogue: 0,0:01:50.91,0:01:55.87,Default,,0,0,0,,别的事情 都不需要你们和这位长官该操心\NIt is neither your place, nor the officer here, to think anything…
+Dialogue: 0,0:01:55.95,0:01:59.12,Default,,0,0,0,,任务确定了 你们也接受了 那就把它做完\NWe signed up for a mission and we will see it to completion.
+Dialogue: 0,0:01:59.83,0:02:01.75,Default,,0,0,0,,我们一定能到达北极的\NWe will reach the North Pole.
 Dialogue: 0,0:02:01.83,0:02:03.45,Default,,0,0,0,,都听明白了吗？\NIs it understood?
-Dialogue: 0,0:02:39.16,0:02:40.33,Default,,0,0,0,,船长 那里爆炸了…\NAn explosion, Captain.
-Dialogue: 0,0:02:43.54,0:02:45.08,Default,,0,0,0,,离这里大约三公里\NAbout two miles away.
+Dialogue: 0,0:02:39.16,0:02:40.33,Default,,0,0,0,,船长 那边有爆炸…\NAn explosion, Captain.
+Dialogue: 0,0:02:43.54,0:02:45.08,Default,,0,0,0,,大约三公里\NAbout two miles away.
 Dialogue: 0,0:02:51.58,0:02:53.08,Default,,0,0,0,,去救人\NGet the men.
 Dialogue: 0,0:03:10.79,0:03:12.91,Default,,0,0,0,,雪橇犬没受伤\NThe sled dogs are unharmed.
-Dialogue: 0,0:03:13.41,0:03:15.12,Default,,0,0,0,,那这血是哪来的？\NThen where does all this blood come from?
+Dialogue: 0,0:03:13.41,0:03:15.12,Default,,0,0,0,,那这血是谁的？\NThen where does all this blood come from?
 Dialogue: 0,0:03:15.20,0:03:16.62,Default,,0,0,0,,船长 在那里！\NOver here, Captain!
-Dialogue: 0,0:03:18.37,0:03:20.45,Default,,0,0,0,,有个受了伤的人 他流了好多血\NA wounded man, he's lost a lot of blood.
-Dialogue: 0,0:03:23.00,0:03:25.91,Default,,0,0,0,,肩膀受伤了 腿断了\NWound to the shoulder, his leg is broken.
-Dialogue: 0,0:03:27.12,0:03:28.20,Default,,0,0,0,,是被熊咬的吗？\NBear attack?
+Dialogue: 0,0:03:18.37,0:03:20.45,Default,,0,0,0,,有个人受伤了 流了好多血\NA wounded man, he's lost a lot of blood.
+Dialogue: 0,0:03:23.00,0:03:25.91,Default,,0,0,0,,肩膀有伤 腿也断了\NWound to the shoulder, his leg is broken.
+Dialogue: 0,0:03:27.12,0:03:28.20,Default,,0,0,0,,被熊咬的？\NBear attack?
 Dialogue: 0,0:03:28.75,0:03:29.87,Default,,0,0,0,,我觉得不是 船长\NI don't think so, Captain.
-Dialogue: 0,0:03:29.95,0:03:31.70,Default,,0,0,0,,拉森 来帮我把这只靴子脱下来\NLarsen, help me with his boot.
+Dialogue: 0,0:03:29.95,0:03:31.70,Default,,0,0,0,,拉森 把这只靴子弄下来\NLarsen, help me with his boot.
 Dialogue: 0,0:03:42.58,0:03:43.95,Default,,0,0,0,,是个假肢\NA prosthetic leg.
-Dialogue: 0,0:03:52.04,0:03:53.33,Default,,0,0,0,,把他抬船上去\NPut him on the board.
+Dialogue: 0,0:03:52.04,0:03:53.33,Default,,0,0,0,,把他抬回船上去\NPut him on the board.
 Dialogue: 0,0:03:56.04,0:03:57.45,Default,,0,0,0,,快 抬上船 赶紧！\NHurry! To the ship! Now!
 Dialogue: 0,0:04:02.83,0:04:04.62,Default,,0,0,0,,拉森 那东西来了\NLarsen, that thing is coming.
 Dialogue: 0,0:04:07.87,0:04:09.54,Default,,0,0,0,,步枪准备！\NReady the rifles!
@@ -59,10 +59,10 @@ Dialogue: 0,0:04:22.79,0:04:24.16,Default,,0,0,0,,开火！\NFire!
 Dialogue: 0,0:04:35.79,0:04:36.91,Default,,0,0,0,,下一组！\NNext group!
 Dialogue: 0,0:04:40.20,0:04:41.50,Default,,0,0,0,,开火！\NFire!
 Dialogue: 0,0:04:55.50,0:04:56.45,Default,,0,0,0,,全部上船！\NAll to the ship!!
-Dialogue: 0,0:05:17.50,0:05:19.04,Default,,0,0,0,,我们抬上船的那个人呢？\NWhere is that man we brought onboard?
-Dialogue: 0,0:05:19.12,0:05:19.95,Default,,0,0,0,,他在哪里？\NWhere?
-Dialogue: 0,0:05:20.87,0:05:22.58,Default,,0,0,0,,那究竟是什么东西？它想干什么？\NWhat is that thing? What does it want?
-Dialogue: 0,0:05:31.12,0:05:34.66,Default,,0,0,0,,把他给我！\NBring him to me!
+Dialogue: 0,0:05:17.50,0:05:19.04,Default,,0,0,0,,抬回来那个人呢？\NWhere is that man we brought onboard?
+Dialogue: 0,0:05:19.12,0:05:19.95,Default,,0,0,0,,在哪？\NWhere?
+Dialogue: 0,0:05:20.87,0:05:22.58,Default,,0,0,0,,那究竟是什么东西？它想怎么？\NWhat is that thing? What does it want?
+Dialogue: 0,0:05:31.12,0:05:34.66,Default,,0,0,0,,把他交给我！\NBring him to me!
 Dialogue: 0,0:05:48.12,0:05:50.75,Default,,0,0,0,,喇叭枪 拉森 拿喇叭枪！\NThe blunderbuss. Larsen, get the blunderbuss!
 Dialogue: 0,0:06:01.91,0:06:03.41,Default,,0,0,0,,维克多\NVictor.
 Dialogue: 0,0:06:05.00,0:06:06.16,Default,,0,0,0,,维克多！\NVictor!
@@ -73,52 +73,52 @@ Dialogue: 0,0:06:37.08,0:06:38.20,Default,,0,0,0,,梯子！\NLadder!
 Dialogue: 0,0:06:38.29,0:06:39.62,Default,,0,0,0,,快收梯子！\NPull up the ladder!
 Dialogue: 0,0:06:54.16,0:06:58.58,Default,,0,0,0,,把他交出来！\NBring him to me!
 Dialogue: 0,0:07:16.79,0:07:18.54,Default,,0,0,0,,还剩几发？\NHow many shots are left?
-Dialogue: 0,0:07:18.62,0:07:20.08,Default,,0,0,0,,一发 但杀不了它\NOne, but it can't kill it.
+Dialogue: 0,0:07:18.62,0:07:20.08,Default,,0,0,0,,一发 这杀不死它啊\NOne, but it can't kill it.
 Dialogue: 0,0:07:20.62,0:07:21.70,Default,,0,0,0,,我知道\NI know.
-Dialogue: 0,0:07:22.54,0:07:23.87,Default,,0,0,0,,我也不是要打他\NI'm not aiming for him.
+Dialogue: 0,0:07:22.54,0:07:23.87,Default,,0,0,0,,我不是要打他\NI'm not aiming for him.
 Dialogue: 0,0:08:15.54,0:08:18.79,Default,,0,0,0,,这是鸦片酊 能止痛 喝吧\NLaudanum, to ease the pain. Drink it. Drink it.
 Dialogue: 0,0:08:24.12,0:08:25.54,Default,,0,0,0,,我这是在哪里？\NWhere am I?
-Dialogue: 0,0:08:25.62,0:08:27.33,Default,,0,0,0,,这是丹麦皇家航船霍莱松特号\NYou are on the Royal Danish ship, Horisont.
+Dialogue: 0,0:08:25.62,0:08:27.33,Default,,0,0,0,,你在丹麦皇家霍莱松特号船上\NYou are on the Royal Danish ship, Horisont.
 Dialogue: 0,0:08:27.41,0:08:29.25,Default,,0,0,0,,我是安德森船长 这位是邬德森医生\NI'm Captain Anderson. This is Dr. Udsen.
 Dialogue: 0,0:08:29.33,0:08:31.37,Default,,0,0,0,,那怪物杀了你们多少人？\NHow many of your men did it kill?
 Dialogue: 0,0:08:33.91,0:08:34.75,Default,,0,0,0,,六个\NSix.
-Dialogue: 0,0:08:34.83,0:08:37.20,Default,,0,0,0,,它会回来 让更多人丧命\NIt will come back and kill many more.
-Dialogue: 0,0:08:37.95,0:08:41.75,Default,,0,0,0,,要是不把我交出去 你们都会没命\NAll of you, if necessary, unless you deliver me to it.
-Dialogue: 0,0:08:41.83,0:08:43.45,Default,,0,0,0,,不会的 它不在了\NNo, no. It's gone.
-Dialogue: 0,0:08:43.54,0:08:45.41,Default,,0,0,0,,它沉入了冰水 死了\NIt sank in the freezing waters. It's dead.
-Dialogue: 0,0:08:45.50,0:08:47.12,Default,,0,0,0,,它没死！\NNo, it is not!
-Dialogue: 0,0:08:47.66,0:08:48.83,Default,,0,0,0,,它死不了\NIt cannot die.
-Dialogue: 0,0:08:49.45,0:08:51.16,Default,,0,0,0,,我一直尝试彻底摧毁它\NI have tried to destroy it.
+Dialogue: 0,0:08:34.83,0:08:37.20,Default,,0,0,0,,它还会回来的 还会有人丧命\NIt will come back and kill many more.
+Dialogue: 0,0:08:37.95,0:08:41.75,Default,,0,0,0,,把我交出去吧 不然你们都会没命的\NAll of you, if necessary, unless you deliver me to it.
+Dialogue: 0,0:08:41.83,0:08:43.45,Default,,0,0,0,,不会的 它回不来了\NNo, no. It's gone.
+Dialogue: 0,0:08:43.54,0:08:45.41,Default,,0,0,0,,它沉进冰水里 肯定冻死了\NIt sank in the freezing waters. It's dead.
+Dialogue: 0,0:08:45.50,0:08:47.12,Default,,0,0,0,,它还没死！\NNo, it is not!
+Dialogue: 0,0:08:47.66,0:08:48.83,Default,,0,0,0,,它死不了的\NIt cannot die.
+Dialogue: 0,0:08:49.45,0:08:51.16,Default,,0,0,0,,我一直试着彻底干掉它\NI have tried to destroy it.
 Dialogue: 0,0:08:53.75,0:08:55.41,Default,,0,0,0,,不管你们信不信\NWhether you believe me or not,
 Dialogue: 0,0:08:57.45,0:09:00.20,Default,,0,0,0,,它都会回来 找我\Nit will come back… for me.
 Dialogue: 0,0:09:01.04,0:09:02.12,Default,,0,0,0,,等它真的回来了\NAnd when it does,
-Dialogue: 0,0:09:03.04,0:09:06.66,Default,,0,0,0,,一定要把我送到外面的冰面上\Nyou must promise that you will put me out on the ice
-Dialogue: 0,0:09:06.75,0:09:07.91,Default,,0,0,0,,让它带走我\Nand let it take me.
+Dialogue: 0,0:09:03.04,0:09:06.66,Default,,0,0,0,,你们必须把我放到外面的冰上\Nyou must promise that you will put me out on the ice
+Dialogue: 0,0:09:06.75,0:09:07.91,Default,,0,0,0,,让它把我带走\Nand let it take me.
 Dialogue: 0,0:09:09.29,0:09:10.12,Default,,0,0,0,,求你们了\NPlease.
-Dialogue: 0,0:09:10.70,0:09:12.62,Default,,0,0,0,,那究竟是什么？\NWhat manner of creature is that?
-Dialogue: 0,0:09:14.08,0:09:16.87,Default,,0,0,0,,是什么样的魔鬼造出来的？\NWhat manner of devil made him?
+Dialogue: 0,0:09:10.70,0:09:12.62,Default,,0,0,0,,那到底是什么东西？\NWhat manner of creature is that?
+Dialogue: 0,0:09:14.08,0:09:16.87,Default,,0,0,0,,是哪个魔鬼创造出来的？\NWhat manner of devil made him?
 Dialogue: 0,0:09:19.04,0:09:20.00,Default,,0,0,0,,是我\NI did.
-Dialogue: 0,0:09:22.00,0:09:22.95,Default,,0,0,0,,就是我\NI did.
-Dialogue: 0,0:09:24.29,0:09:25.50,Default,,0,0,0,,是我亲手造的他\NI made him.
+Dialogue: 0,0:09:22.00,0:09:22.95,Default,,0,0,0,,是我创造的\NI did.
+Dialogue: 0,0:09:24.29,0:09:25.50,Default,,0,0,0,,是我亲手创造的他\NI made him.
 Dialogue: 0,0:09:27.87,0:09:32.37,Default,,0,0,0,,我本已下定决心 让那些罪恶的记忆和我一同消亡\NI had determined that the memory of my evils should die with me.
 Dialogue: 0,0:09:33.20,0:09:34.16,Default,,0,0,0,,准备好了\NIt's ready.
-Dialogue: 0,0:09:35.16,0:09:37.58,Default,,0,0,0,,接下来我要说的话 有些是真的\NSome of what I will tell you is fact.
-Dialogue: 0,0:09:39.66,0:09:42.58,Default,,0,0,0,,有些是假的 但这是真的\NSome is not, but it is all true.
+Dialogue: 0,0:09:35.16,0:09:37.58,Default,,0,0,0,,接下来我要说的话 有些听起来像真的\NSome of what I will tell you is fact.
+Dialogue: 0,0:09:39.66,0:09:42.58,Default,,0,0,0,,有些听起来像假的 但都是事实\NSome is not, but it is all true.
 Dialogue: 0,0:09:42.66,0:09:44.79,Default,,0,0,0,,我叫维克多\NMy name is Victor.
 Dialogue: 0,0:09:45.37,0:09:46.79,Default,,0,0,0,,维克多·弗兰肯斯坦\NVictor Frankenstein.
-Dialogue: 0,0:09:48.08,0:09:51.00,Default,,0,0,0,,我的名字是父亲起的\NIt was my father who gave me that name.
-Dialogue: 0,0:09:51.83,0:09:53.33,Default,,0,0,0,,你知道这名字是什么意思吗？\NDo you know what it means?
-Dialogue: 0,0:09:53.41,0:09:55.79,Default,,0,0,0,,应该是征服者的意思\NI believe I do, yes. Conqueror.
+Dialogue: 0,0:09:48.08,0:09:51.00,Default,,0,0,0,,我父亲给我起的名字\NIt was my father who gave me that name.
+Dialogue: 0,0:09:51.83,0:09:53.33,Default,,0,0,0,,你知道这名字的寓意吗？\NDo you know what it means?
+Dialogue: 0,0:09:53.41,0:09:55.79,Default,,0,0,0,,好像是征服者的意思\NI believe I do, yes. Conqueror.
 Dialogue: 0,0:09:56.58,0:09:57.75,Default,,0,0,0,,赢得一切的人\NOne that wins it all.
-Dialogue: 0,0:09:57.83,0:09:59.87,Default,,0,0,0,,没错 一切因他而起\NYes. It all started with him.
-Dialogue: 0,0:10:00.45,0:10:01.37,Default,,0,0,0,,我的父亲\NMy father.
-Dialogue: 0,0:10:04.29,0:10:05.33,Default,,0,0,0,,还有我的母亲\NAnd my mother.
-Dialogue: 0,0:10:09.58,0:10:10.45,Default,,0,0,0,,维克多！\NVictor!
-Dialogue: 0,0:10:10.54,0:10:12.58,Default,,0,0,0,,（第一部分 维克多的故事）
+Dialogue: 0,0:09:57.83,0:09:59.87,Default,,0,0,0,,没错 一切都因他而起\NYes. It all started with him.
+Dialogue: 0,0:10:00.45,0:10:01.37,Default,,0,0,0,,我父亲\NMy father.
+Dialogue: 0,0:10:04.29,0:10:05.33,Default,,0,0,0,,还有我母亲\NAnd my mother.
+Dialogue: 0,0:10:09.56,0:10:11.85,Default,,0,0,0,,维克多！\NVictor!
+Dialogue: 0,0:10:09.56,0:10:13.56,Default,,0,0,0,,{\an8}（第一部分 维克多的故事）
 Dialogue: 0,0:10:12.66,0:10:13.50,Default,,0,0,0,,维克多！\NVictor!
 Dialogue: 0,0:10:16.08,0:10:17.25,Default,,0,0,0,,维克多！\NVictor!
 Dialogue: 0,0:10:20.70,0:10:23.83,Default,,0,0,0,,快下来 你父亲来了\NCome down, your father is arriving.
-Dialogue: 0,0:10:24.79,0:10:27.75,Default,,0,0,0,,Maman? \NMaman?
+Dialogue: 0,0:10:24.79,0:10:27.75,Default,,0,0,0,,妈妈? \NMaman?
 Dialogue: 0,0:10:28.95,0:10:30.37,Default,,0,0,0,,母亲 我在这里\NI'm here, Mother.
 Dialogue: 0,0:10:33.91,0:10:35.12,Default,,0,0,0,,这里\NI'm here.
 Dialogue: 0,0:10:38.12,0:10:41.41,Default,,0,0,0,,我父亲是男爵 也是个杰出的外科医生\NMy father was a baron and a preeminent surgeon.
@@ -145,8 +145,8 @@ Dialogue: 0,0:12:10.12,0:12:13.16,Default,,0,0,0,,用你的披风庇护我 然�
 Dialogue: 0,0:12:15.58,0:12:18.70,Default,,0,0,0,,我隔着墙听到他们争论不休\NI would hear them through the wall, arguing incessantly,
 Dialogue: 0,0:12:18.79,0:12:22.62,Default,,0,0,0,,对着彼此大吼大叫 话题关于财富和庄园 还有我\Nyelling at each other about wealth, estate… and me.
 Dialogue: 0,0:12:23.79,0:12:26.33,Default,,0,0,0,,他们的争吵声让我万分恐惧\NTheir voices filled me with fear.
-Dialogue: 0,0:12:30.95,0:12:32.08,Default,,0,0,0,,Maman?\NMaman?
-Dialogue: 0,0:12:34.04,0:12:35.20,Default,,0,0,0,,Maman?\NMaman?
+Dialogue: 0,0:12:30.95,0:12:32.08,Default,,0,0,0,,妈妈?\NMaman?
+Dialogue: 0,0:12:34.04,0:12:35.20,Default,,0,0,0,,妈妈?\NMaman?
 Dialogue: 0,0:12:45.75,0:12:48.20,Default,,0,0,0,,那个男人鄙视我们两个\NThe man despised us both.
 Dialogue: 0,0:12:48.29,0:12:52.12,Default,,0,0,0,,讨厌我们乌黑的头发、深色的瞳孔\NOur raven black hair, our deep, dark eyes.
 Dialogue: 0,0:12:52.70,0:12:56.79,Default,,0,0,0,,就连我们喜好安静、不时紧张的性情\NEven our quiet, at times nervous disposition
@@ -187,17 +187,17 @@ Dialogue: 0,0:15:04.50,0:15:05.37,Default,,0,0,0,,一\NOne…
 Dialogue: 0,0:15:07.20,0:15:08.70,Default,,0,0,0,,不可能\NThat's impossible.
 Dialogue: 0,0:15:10.45,0:15:11.45,Default,,0,0,0,,我来洗牌\NI'll shuffle.
 Dialogue: 0,0:15:17.33,0:15:18.45,Default,,0,0,0,,母亲？\NMother?
-Dialogue: 0,0:15:19.62,0:15:21.00,Default,,0,0,0,,Maman?\Maman?
+Dialogue: 0,0:15:19.62,0:15:21.00,Default,,0,0,0,,妈妈?\NMaman?
 Dialogue: 0,0:15:26.62,0:15:27.95,Default,,0,0,0,,父亲\NFather!
-Dialogue: 0,0:15:28.04,0:15:29.45,Default,,0,0,0,,父亲 母亲出事了\NFather. It's Mother.
-Dialogue: 0,0:15:36.00,0:15:37.70,Default,,0,0,0,,Maman.\Maman.
-Dialogue: 0,0:15:37.79,0:15:40.54,Default,,0,0,0,,准备好热水和干净的亚麻布 多拿一点 快\NI need hot water and clean linen. A lot of it.
-Dialogue: 0,0:15:40.62,0:15:41.45,Default,,0,0,0,,是 先生\N-Now. -Sir.
+Dialogue: 0,0:15:28.04,0:15:29.45,Default,,0,0,0,,父亲 母亲不好了\NFather. It's Mother.
+Dialogue: 0,0:15:36.00,0:15:37.70,Default,,0,0,0,,妈妈\NMaman.
+Dialogue: 0,0:15:37.79,0:15:40.54,Default,,0,0,0,,多准备一些热水和干净的亚麻布 快\NI need hot water and clean linen. A lot of it. Now.
+Dialogue: 0,0:15:40.62,0:15:41.45,Default,,0,0,0,,先生\NSir.
 Dialogue: 0,0:15:41.54,0:15:42.54,Default,,0,0,0,,-不 维克多 -妈妈？\N-No, Victor! -Mother?
-Dialogue: 0,0:15:44.12,0:15:45.50,Default,,0,0,0,,-Maman! -维克多!\N-Maman! -Victor!
-Dialogue: 0,0:15:49.33,0:15:51.87,Default,,0,0,0,,父亲！\NFather! Father!
-Dialogue: 0,0:15:51.95,0:15:53.41,Default,,0,0,0,,一定要救她 求你了！\N-Victor! -Save her, please!
-Dialogue: 0,0:16:35.91,0:16:41.12,Default,,0,0,0,,我的母亲 我曾将她视作我的一部分\NMy mother, whom I had come to consider a part of my very self,
+Dialogue: 0,0:15:44.12,0:15:45.56,Default,,0,0,0,,-妈妈! -维克多!\N-Maman! -Victor!
+Dialogue: 0,0:15:49.33,0:15:51.87,Default,,0,0,0,,父亲！父亲！\NFather! Father!
+Dialogue: 0,0:15:51.95,0:15:53.41,Default,,0,0,0,,救救她 求你了！\NSave her, please!
+Dialogue: 0,0:16:35.91,0:16:41.12,Default,,0,0,0,,我母亲 她是我生命一部分\NMy mother, whom I had come to consider a part of my very self,
 Dialogue: 0,0:16:42.20,0:16:44.50,Default,,0,0,0,,我曾以为她永远不会离去\Nshe who I thought would never leave,
 Dialogue: 0,0:16:45.37,0:16:49.33,Default,,0,0,0,,以为她是我的生命 如今她死了\Nshe who was life… was now death.
 Dialogue: 0,0:16:50.75,0:16:52.83,Default,,0,0,0,,她的双眼已暗淡无光\NHer eyes extinguished,
@@ -243,7 +243,7 @@ Dialogue: 0,0:19:28.83,0:19:30.41,Default,,0,0,0,,它向我许下承诺\NAnd it 
 Dialogue: 0,0:19:32.16,0:19:35.79,Default,,0,0,0,,我将能掌控生死\NI would have command over the forces of life and death.
 Dialogue: 0,0:19:37.50,0:19:40.25,Default,,0,0,0,,成为和父亲一样杰出的外科医生\NI would become every ounce the surgeon my father was.
 Dialogue: 0,0:19:40.33,0:19:43.50,Default,,0,0,0,,我的野心和成就将超过他\NI would surpass him in ambition and in reach.
-Dialogue: 0,0:19:43.58,0:19:44.87,Default,,0,0,0,,守护天使…
+Dialogue: 0,0:19:43.58,0:19:44.87,Default,,0,0,0,,守护天使\NGuardian angel.
 Dialogue: 0,0:19:45.62,0:19:46.91,Default,,0,0,0,,幻象如此清晰\NThe vision was so clear.
 Dialogue: 0,0:19:47.66,0:19:51.29,Default,,0,0,0,,无论清醒还是睡梦中 我都从未看到如此清晰的景象\NClearer than anything I'd ever seen in my waking hours or dreams.
 Dialogue: 0,0:19:54.91,0:19:55.87,Default,,0,0,0,,但承诺如何兑现？\NBut how?
@@ -368,8 +368,8 @@ Dialogue: 0,0:27:56.70,0:27:58.62,Default,,0,0,0,,还有重要的事\NOh, but th
 Dialogue: 0,0:28:01.20,0:28:03.66,Default,,0,0,0,,我在爱丁堡找好了住处\NI've taken quarters in Edinburgh.
 Dialogue: 0,0:28:03.75,0:28:07.16,Default,,0,0,0,,三天后 我们一起见威廉和伊丽莎白\NThree days from now, we are to meet with William and Elizabeth.
 Dialogue: 0,0:28:07.25,0:28:10.37,Default,,0,0,0,,我将在那晚改变你的命运\NAnd that evening, I will change your destiny.
-Dialogue: 0,0:28:11.70,0:28:14.00,Default,,0,0,0,,我会让你看到非同凡响的东西\NI will show you something extraordinary.
-Dialogue: 0,0:28:23.08,0:28:24.50,Default,,0,0,0,,-你真好 -谢谢 给
+Dialogue: 0,0:28:11.70,0:28:14.00,Default,,0,0,0,,我要给你看些非同凡响的东西\NI will show you something extraordinary.
+Comment: 0,0:28:23.08,0:28:24.50,Default,,0,0,0,,{路人台词，仅中文，不重要 忽略}-你真好 -谢谢 给
 Dialogue: 0,0:28:31.41,0:28:35.16,Default,,0,0,0,,桃子 把桃子转过来\NThe peach. The peach. Turn the peach. Turn it.
 Dialogue: 0,0:28:36.70,0:28:38.33,Default,,0,0,0,,你又啃了\NYou bit it again.
 Dialogue: 0,0:28:39.33,0:28:40.83,Default,,0,0,0,,你一直在吃桃\NYou're eating the peaches.
@@ -1104,7 +1104,7 @@ Dialogue: 0,1:28:02.87,1:28:04.04,Default,,0,0,0,,来吧 野兽\NGo on, beast.
 Dialogue: 0,1:28:04.12,1:28:07.58,Default,,0,0,0,,把我俩都杀了 证明造你的人说的都是真的\NKill us both. Confirm your maker's tale.
 Dialogue: 0,1:28:13.50,1:28:18.04,Default,,0,0,0,,造我的人 说了他的故事\NMy maker… told his tale.
 Dialogue: 0,1:28:23.87,1:28:26.66,Default,,0,0,0,,那我也来说说我的\NThen I will tell you mine.
-Dialogue: 0,1:28:30.16,1:28:33.08,Default,,0,0,0,,（第二部分 那头怪物的故事）
+Dialogue: 0,1:28:30.15,1:28:33.14,Default,,0,0,0,,{\an8}（第二部分 那头怪物的故事）
 Dialogue: 0,1:28:42.79,1:28:48.41,Default,,0,0,0,,维克多！\NVictor!
 Dialogue: 0,1:28:48.50,1:28:52.83,Default,,0,0,0,,我反复呼唤你的名字 终于发现这里只有我\NI called your name and understood I was alone.
 Dialogue: 0,1:32:52.87,1:32:54.20,Default,,0,0,0,,-那是什么？ -开枪！\N-What is that? -Shoot at it!
@@ -1568,8 +1568,7 @@ Dialogue: 0,2:20:38.79,2:20:40.08,Default,,0,0,0,,您要亲自宣布吗？\NDo y
 Dialogue: 0,2:20:40.70,2:20:41.54,Default,,0,0,0,,大家听好！\NMen!
 Dialogue: 0,2:20:42.95,2:20:44.12,Default,,0,0,0,,我们开船回家\NWe're sailing home!
 Dialogue: 0,2:20:44.83,2:20:45.91,Default,,0,0,0,,我们回家了\NWe're sailing home!
-Dialogue: 0,2:21:38.16,2:21:43.70,Default,,0,0,0,,（“心会破碎 但破碎后依然跳动” 拜伦勋爵）
-Dialogue: 0,2:21:51.54,2:21:52.54,Default,,0,0,0,,（基于玛丽·雪莱）
-Dialogue: 0,2:21:52.62,2:21:55.12,Default,,0,0,0,,（所著小说《科学怪人》改编）
-Dialogue: 0,2:22:56.25,2:22:59.87,Default,,0,0,0,,《科学怪人》
+Dialogue: 0,2:21:38.15,2:21:43.73,Default,,0,0,0,,{\fad(1000,1000)}（“心会破碎 但破碎后依然跳动” 拜伦勋爵）
+Dialogue: 0,2:21:51.52,2:21:55.15,Default,,0,0,0,,{\fad(1000,1000)}改编自玛丽·雪莱所著小说《科学怪人》
+Dialogue: 0,2:22:56.27,2:22:59.90,Default,,0,0,0,,{\fad(1000,1000)}《科学怪人》
 Dialogue: 0,2:29:37.33,2:29:42.33,Default,,0,0,0,,字幕翻译： 涅伽达
